@@ -1,4 +1,4 @@
-package com.csu.cs.community.controller;
+package com.demo.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
